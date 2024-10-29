@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-My name is **Sahand**, and I am currently studying computer science at RWTH-Aachen University! 🖋️
+My name is **Sahand**, and I am currently studying computer science at RWTH-Aachen University! 🖋️    
 
-My main focus is on learning machine learning techniques and trying to delve deeper into deep learning! 👨🏻‍💻
-I am working on my thesis in NLP, playing with some embedding models, and huge multilingual datasets on some pretty powerful supercomputers... 📝
-I'm trying to apply what I've learned in theory during my studies into solving practical problems, hopefully conducting meaningful research. 📊📈
+My main focus is on learning machine learning techniques and trying to delve deeper into deep learning! 👨🏻‍💻    
+I am working on my thesis in NLP, playing with some embedding models, and huge multilingual datasets on some pretty powerful supercomputers... 📝     
+I'm trying to apply what I've learned in theory during my studies into solving practical problems, hopefully conducting meaningful research. 📊📈     
 
-That's pretty much it! 😆👋
+That's pretty much it! 😆👋    
 
-- fun fact: Sahand is the name of an inactive volcano in northwestern Iran, and it means strong, firm, and established! The easiest way to remember the name, is Sa + ✋ = Sahand!
+- fun fact: Sahand is the name of an inactive volcano in northwestern Iran, and it means strong, firm, and established! The easiest way to remember the name, is Sa + ✋ = Sahand!    
 
 
 <!--
