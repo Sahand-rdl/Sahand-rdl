@@ -1,27 +1,51 @@
-## Hi there 👋
+# Sahand Rahmdel
 
-My name is **Sahand**, and I am currently studying computer science at RWTH-Aachen University! 🖋️    
+M.Sc. Computer Science (AI) @ RWTH Aachen · AI Engineer @ Mercedes-Benz AG
 
-My main focus is on learning machine learning techniques and trying to delve deeper into deep learning! 👨🏻‍💻    
-I am working on my thesis in NLP, playing with some embedding models, and huge multilingual datasets on some pretty powerful supercomputers... 📝     
-I'm trying to apply what I've learned in theory during my studies into solving practical problems, hopefully conducting meaningful research. 📊📈     
+I build things at the intersection of applied AI and real engineering problems; production agents, RAG systems, HPC-scale NLP pipelines, and the occasional seat snatcher.
 
-That's pretty much it! 😆👋    
+Currently working on two fronts: pushing agentic AI into industrial software development at Mercedes-Benz, and finishing my master's in AI at RWTH Aachen.
 
-- fun fact: Sahand is the name of an inactive volcano in northwestern Iran, and it means strong, firm, and established! The easiest way to remember the name, is Sa + ✋ = Sahand!    
+---
 
+## What I'm working on
 
-<!--
-**Sahand-rdl/Sahand-rdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NEXA** *(internal, Mercedes-Benz AG)*: an AI agent I designed and built from scratch, combining RAG over a large proprietary codebase, GitHub Enterprise MCP tool integration, and a multi-agent LangGraph pipeline (Investigator → parallel Coders → Reviewer) for autonomous code generation. Not public, but it's the most complex thing I've built.
 
-Here are some ideas to get you started:
+**[Artifaix](https://github.com/Sahand-rdl/Artifaix)**: AI-powered research management platform with iterative LLM feedback loops, MapReduce document processing, vector search, and a FastAPI/React microservice architecture. Built during my software lab at RWTH's Software Construction research group.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Background
+
+- Analyzed 6.1 TB of multilingual text embeddings across 24 languages for my bachelor's thesis at RWTH Aachen, Forschungszentrum Jülich, and WestAI, finding that mean embeddings cluster by linguistic family rather than topic
+- Built HPC embedding pipelines at Jülich Supercomputing Centre for Teuken-7B, Germany's first open LLM
+- Configured OSPF, BGP, RPKI, VLANs across 28 virtual routers during a network engineering internship
+- Written low-level C firmware for ATMega644 embedded systems
+
+---
+
+## Stack
+
+**AI / ML:** PyTorch · Hugging Face · LangChain · LangGraph · ChromaDB · RAG · MCP · Vector Embeddings  
+**Backend:** Python · FastAPI · Docker · SLURM · Linux  
+**Frontend:** React · TypeScript · Tailwind CSS  
+**Other:** C# · C/C++ · SQL · Git
+
+---
+
+## Side projects
+
+- **[rwth-seat-snatcher](https://github.com/Sahand-rdl/rwth-seat-snatcher)**: Selenium automation for RWTH library seat reservations. Ruthlessly practical.
+- **[typing-test-cli](https://github.com/Sahand-rdl/typing-test-cli)**: Terminal typing test with Levenshtein-distance accuracy scoring.
+- **[maptoposter](https://github.com/Sahand-rdl/maptoposter)**: Forked and contributed to; turns city maps into minimalist print posters.
+
+---
+
+## Fun fact
+
+Sahand is the name of an inactive volcano in northwestern Iran. It means strong, firm, and established. The easiest way to remember it: **Sa** + ✋ = **Sahand**.
+
+---
+
+📍 Aachen, Germany · 📬 sahand.rahmdel@rwth-aachen.de · [LinkedIn](https://linkedin.com/in/sahand-rahmdel)
