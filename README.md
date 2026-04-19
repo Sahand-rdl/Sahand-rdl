@@ -1,5 +1,4 @@
 # Sahand Rahmdel
-
 M.Sc. Computer Science (AI) @ RWTH Aachen · AI Engineer @ Mercedes-Benz AG
 
 I build things at the intersection of applied AI and real engineering problems; production agents, RAG systems, HPC-scale NLP pipelines, and the occasional seat snatcher.
@@ -10,9 +9,16 @@ Currently working on two fronts: pushing agentic AI into industrial software dev
 
 ## What I'm working on
 
-**NEXA** *(internal, Mercedes-Benz AG)*: an AI agent I designed and built from scratch, combining RAG over a large proprietary codebase, GitHub Enterprise MCP tool integration, and a multi-agent LangGraph pipeline (Investigator → parallel Coders → Reviewer) for autonomous code generation. Not public, but it's the most complex thing I've built.
+**[EmbedAtlas](https://github.com/Sahand-rdl/EmbedAtlas)** *(in progress)*: A GUI tool for the full embedding workflow; dataset ingestion, embedding generation, RAG creation, semantic search, and interactive dimensionality reduction visualizations (PCA, UMAP, t-SNE) via Plotly. Everything in a few clicks.
 
-**[Artifaix](https://github.com/Sahand-rdl/Artifaix)**: AI-powered research management platform with iterative LLM feedback loops, MapReduce document processing, vector search, and a FastAPI/React microservice architecture. Built during my software lab at RWTH's Software Construction research group.
+---
+
+## Projects
+
+- **[Artifaix](https://github.com/Sahand-rdl/Artifaix)**: AI-powered research management platform with iterative LLM feedback loops, MapReduce document processing, vector search, and a FastAPI/React microservice architecture.
+- **[rwth-seat-snatcher](https://github.com/Sahand-rdl/rwth-seat-snatcher)**: Selenium automation for RWTH library seat reservations. Ruthlessly practical.
+- **[typing-test-cli](https://github.com/Sahand-rdl/typing-test-cli)**: Terminal typing test with Levenshtein-distance accuracy scoring.
+- **[maptoposter](https://github.com/Sahand-rdl/maptoposter)**: Forked and contributed to; turns city maps into minimalist print posters.
 
 ---
 
@@ -31,14 +37,6 @@ Currently working on two fronts: pushing agentic AI into industrial software dev
 **Backend:** Python · FastAPI · Docker · SLURM · Linux  
 **Frontend:** React · TypeScript · Tailwind CSS  
 **Other:** C# · C/C++ · SQL · Git
-
----
-
-## Side projects
-
-- **[rwth-seat-snatcher](https://github.com/Sahand-rdl/rwth-seat-snatcher)**: Selenium automation for RWTH library seat reservations. Ruthlessly practical.
-- **[typing-test-cli](https://github.com/Sahand-rdl/typing-test-cli)**: Terminal typing test with Levenshtein-distance accuracy scoring.
-- **[maptoposter](https://github.com/Sahand-rdl/maptoposter)**: Forked and contributed to; turns city maps into minimalist print posters.
 
 ---
 
