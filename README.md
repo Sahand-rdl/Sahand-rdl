@@ -15,6 +15,7 @@ Currently working on two fronts: pushing agentic AI into industrial software dev
 
 ## Projects
 
+ - **[NeuroSymbolic-Insurance-Evaluator](https://github.com/Sahand-rdl/NeuroSymbolic-Insurance-Evaluator)**: A production-grade multi-modal evaluation engine. Uses Claude 4.6 Sonnet grounded by deterministic Python rules (Neuro-Symbolic architecture) to catch insurance fraud, featuring an `asyncio.Semaphore` layer for high-throughput API batching and local SQLite caching.
 - **[Artifaix](https://github.com/Sahand-rdl/Artifaix)**: AI-powered research management platform with iterative LLM feedback loops, MapReduce document processing, vector search, and a FastAPI/React microservice architecture.
 - **[rwth-seat-snatcher](https://github.com/Sahand-rdl/rwth-seat-snatcher)**: Selenium automation for RWTH library seat reservations. Ruthlessly practical.
 - **[typing-test-cli](https://github.com/Sahand-rdl/typing-test-cli)**: Terminal typing test with Levenshtein-distance accuracy scoring.
