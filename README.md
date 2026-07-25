@@ -31,7 +31,8 @@ Currently working on two fronts: pushing agentic AI into industrial software dev
 ## What I'm working on
 
 **[EmbedAtlas](https://github.com/Sahand-rdl/EmbedAtlas)** *(in progress)*: A GUI tool for the full embedding workflow; dataset ingestion, embedding generation, RAG creation, semantic search, and interactive dimensionality reduction visualizations (PCA, UMAP, t-SNE) via Plotly. Everything in a few clicks.
-[![EmbedAtlas](https://github-readme-stats.vercel.app/api/pin/?username=Sahand-rdl&repo=EmbedAtlas&theme=transparent&show_owner=false)](https://github.com/Sahand-rdl/EmbedAtlas)
+
+[![EmbedAtlas](https://github-readme-stats.vercel.app/api/pin/?username=Sahand-rdl&repo=EmbedAtlas&theme=tokyonight&show_owner=false)](https://github.com/Sahand-rdl/EmbedAtlas)
 
 ---
 
@@ -60,7 +61,7 @@ Sahand is the name of an inactive volcano in northwestern Iran. It means strong,
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahand-rdl&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sahand's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahand-rdl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sahand's GitHub Stats" height="150" />
 </p>
 ---
 
