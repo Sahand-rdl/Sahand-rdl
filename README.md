@@ -1,5 +1,6 @@
 # Sahand Rahmdel
 M.Sc. Computer Science (AI) @ RWTH Aachen · AI Engineer @ Mercedes-Benz AG
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahandrahmdel/)
 
 I build things at the intersection of applied AI and real engineering problems; production agents, RAG systems, HPC-scale NLP pipelines, and the occasional seat snatcher.
 
