@@ -60,9 +60,11 @@ Currently working on two fronts: pushing agentic AI into industrial software dev
 Sahand is the name of an inactive volcano in northwestern Iran. It means strong, firm, and established. The easiest way to remember it: **Sa** + ✋ = **Sahand**.
 
 ---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahand-rdl&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
+
 ---
 
 📍 Aachen, Germany ·
