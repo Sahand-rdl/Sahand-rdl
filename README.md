@@ -6,7 +6,7 @@ M.Sc. Computer Science (AI) @ RWTH Aachen · AI Engineer @ Mercedes-Benz AG
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Sahand-rdl/Sahand-rdl/blob/main/Sahand_Rahmdel_CV.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CV-555555?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
