@@ -32,7 +32,7 @@ Currently working on two fronts: pushing agentic AI into industrial software dev
 
 **[EmbedAtlas](https://github.com/Sahand-rdl/EmbedAtlas)** *(in progress)*: A GUI tool for the full embedding workflow; dataset ingestion, embedding generation, RAG creation, semantic search, and interactive dimensionality reduction visualizations (PCA, UMAP, t-SNE) via Plotly. Everything in a few clicks.
 
-[![EmbedAtlas](https://github-readme-stats.vercel.app/api/pin/?username=Sahand-rdl&repo=EmbedAtlas&theme=tokyonight&show_owner=false)](https://github.com/Sahand-rdl/EmbedAtlas)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-EmbedAtlas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sahand-rdl/EmbedAtlas)
 
 ---
 
