@@ -65,4 +65,4 @@ Sahand is the name of an inactive volcano in northwestern Iran. It means strong,
 </p>
 ---
 
-📍 Aachen, Germany · 📬 sahand.rahmdel@rwth-aachen.de · [LinkedIn](https://linkedin.com/in/sahand-rahmdel)
+📍 Aachen, Germany ·
