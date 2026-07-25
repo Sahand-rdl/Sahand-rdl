@@ -25,7 +25,7 @@ Currently working on two fronts: pushing agentic AI into industrial software dev
 - **Backend & Systems:** Python · FastAPI · C# (.NET) · C/C++ · Docker · SLURM · Linux · SQL
 - **Frontend:** TypeScript · React · Tailwind CSS · Vite
 - **Tooling & Infra:** Git · Bash · uv / Conda · Siemens NX Open
-- 
+  
 ---
 
 ## What I'm working on
