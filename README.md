@@ -1,5 +1,6 @@
 # Sahand Rahmdel
 M.Sc. Computer Science (AI) @ RWTH Aachen · AI Engineer @ Mercedes-Benz AG
+
 <a href="https://www.linkedin.com/in/sahandrahmdel">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
