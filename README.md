@@ -2,11 +2,14 @@
 M.Sc. Computer Science (AI) @ RWTH Aachen · AI Engineer @ Mercedes-Benz AG
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sahandrahmdel" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/sahandrahmdel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Sahand-rdl/Sahand-rdl/blob/main/Sahand_Rahmdel_CV.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Sahand-rdl/Sahand-rdl/blob/main/Sahand_Rahmdel_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
+  <a href="mailto:sahand.rahmdel@rwth-aachen.de">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -16,15 +19,25 @@ Currently working on two fronts: pushing agentic AI into industrial software dev
 
 ---
 
+## Stack
+
+- **AI / ML & Data:** PyTorch · Hugging Face · LangGraph · LangChain · scikit-learn · NumPy · pandas · ChromaDB
+- **Backend & Systems:** Python · FastAPI · C# (.NET) · C/C++ · Docker · SLURM · Linux · SQL
+- **Frontend:** TypeScript · React · Tailwind CSS · Vite
+- **Tooling & Infra:** Git · Bash · uv / Conda · Siemens NX Open
+- 
+---
+
 ## What I'm working on
 
 **[EmbedAtlas](https://github.com/Sahand-rdl/EmbedAtlas)** *(in progress)*: A GUI tool for the full embedding workflow; dataset ingestion, embedding generation, RAG creation, semantic search, and interactive dimensionality reduction visualizations (PCA, UMAP, t-SNE) via Plotly. Everything in a few clicks.
+[![EmbedAtlas](https://github-readme-stats.vercel.app/api/pin/?username=Sahand-rdl&repo=EmbedAtlas&theme=transparent&show_owner=false)](https://github.com/Sahand-rdl/EmbedAtlas)
 
 ---
 
 ## Projects
 
- - **[NeuroSymbolic-Insurance-Evaluator](https://github.com/Sahand-rdl/NeuroSymbolic-Insurance-Evaluator)**: A production-grade multi-modal evaluation engine. Uses Claude 4.6 Sonnet grounded by deterministic Python rules (Neuro-Symbolic architecture) to catch insurance fraud, featuring an `asyncio.Semaphore` layer for high-throughput API batching and local SQLite caching.
+- **[NeuroSymbolic-Insurance-Evaluator](https://github.com/Sahand-rdl/NeuroSymbolic-Insurance-Evaluator)**: 🏆 *(Top 4% Worldwide / #2 Germany @ HackerRank Hackathon)*: A production-grade multi-modal evaluation engine. Uses Claude 4.6 Sonnet grounded by deterministic Python rules (Neuro-Symbolic architecture) to catch insurance fraud, featuring an `asyncio.Semaphore` layer for high-throughput API batching and local SQLite caching.
 - **[Artifaix](https://github.com/Sahand-rdl/Artifaix)**: AI-powered research management platform with iterative LLM feedback loops, MapReduce document processing, vector search, and a FastAPI/React microservice architecture.
 - **[rwth-seat-snatcher](https://github.com/Sahand-rdl/rwth-seat-snatcher)**: Selenium automation for RWTH library seat reservations. Ruthlessly practical.
 - **[typing-test-cli](https://github.com/Sahand-rdl/typing-test-cli)**: Terminal typing test with Levenshtein-distance accuracy scoring.
@@ -41,19 +54,14 @@ Currently working on two fronts: pushing agentic AI into industrial software dev
 
 ---
 
-## Stack
-
-**AI / ML:** PyTorch · Hugging Face · LangChain · LangGraph · ChromaDB · RAG · MCP · Vector Embeddings  
-**Backend:** Python · FastAPI · Docker · SLURM · Linux  
-**Frontend:** React · TypeScript · Tailwind CSS  
-**Other:** C# · C/C++ · SQL · Git
-
----
-
 ## Fun fact
 
 Sahand is the name of an inactive volcano in northwestern Iran. It means strong, firm, and established. The easiest way to remember it: **Sa** + ✋ = **Sahand**.
 
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahand-rdl&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sahand's GitHub Stats" height="150" />
+</p>
 ---
 
 📍 Aachen, Germany · 📬 sahand.rahmdel@rwth-aachen.de · [LinkedIn](https://linkedin.com/in/sahand-rahmdel)
