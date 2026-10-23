@@ -39,6 +39,7 @@ Currently working on two fronts: pushing agentic AI into industrial software dev
 ## Projects
 
 - **[NeuroSymbolic-Insurance-Evaluator](https://github.com/Sahand-rdl/NeuroSymbolic-Insurance-Evaluator)**: 🏆 *(Top 4% Worldwide / #2 Germany @ HackerRank Hackathon)*: A production-grade multi-modal evaluation engine. Uses Claude 4.6 Sonnet grounded by deterministic Python rules (Neuro-Symbolic architecture) to catch insurance fraud, featuring an `asyncio.Semaphore` layer for high-throughput API batching and local SQLite caching.
+- **[Message-Notifier](https://github.com/Sahand-rdl/Message-Notifier)**: 🥉 *(Top 10% Worldwide / Bronze Winner @ HackerRank Orchestrate)*: A multi-modal AI notification routing engine for WhatsApp. Implements a two-phase Neuro-Symbolic pipeline (Claude Sonnet + Whisper for multi-modal perception; deterministic Python rule engine for routing) achieving 96.67% action accuracy with resumable batch processing.
 - **[Artifaix](https://github.com/Sahand-rdl/Artifaix)**: AI-powered research management platform with iterative LLM feedback loops, MapReduce document processing, vector search, and a FastAPI/React microservice architecture.
 - **[rwth-seat-snatcher](https://github.com/Sahand-rdl/rwth-seat-snatcher)**: Selenium automation for RWTH library seat reservations. Ruthlessly practical.
 - **[typing-test-cli](https://github.com/Sahand-rdl/typing-test-cli)**: Terminal typing test with Levenshtein-distance accuracy scoring.
